@@ -1,7 +1,4 @@
 # NYC Trip Duraion
-<p style="text-align:center;">
-  <img src='src/utils/digrams/readme_digrame.png' width="1400">
-</p>
 
 <h3>
 
@@ -222,6 +219,3 @@ streamlit run src/Frontend/frontend.py
 The best model we choose for testing XGBoost that give in val: r2-
 score: 0.76% and MSE: 0.134
 And for test: r2score: 0.725 and MSE: 0.174
-
-- You can enter [Discord Channel NeuroVision](https://discord.gg/dWFrevZR) for discussion 
-- [Ahmed Diab](https://www.linkedin.com/in/ahmed-diab-3b0631245/)
